@@ -1,0 +1,6 @@
+Java 17+
+stdlib.jar
+
+# Notes:
+# - This is an informational requirements file for the project.
+# - The game uses StdDraw and runs with `java -jar SnakeGame.jar`.

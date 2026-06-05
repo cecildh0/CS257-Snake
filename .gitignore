@@ -1,0 +1,29 @@
+# Build output
+out/
+
+# Java compiled classes
+*.class
+
+# Built jar
+SnakeGame.jar
+
+# Manifest helper
+manifest.txt
+
+# VS Code
+.vscode/
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore all jars except stdlib.jar if you want to keep that dependency
+*.jar
+!stdlib.jar
