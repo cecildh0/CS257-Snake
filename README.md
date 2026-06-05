@@ -6,18 +6,15 @@ Simple desktop Snake game written for CS257 final
 
 - `src/` — Java source files
 - `stdlib.jar` — `StdDraw` library dependency
-- `SnakeGame.jar` — executable JAR built from the project
+- `SnakeGame.jar` — executable JAR built from the project (generated artifact)
 - `run.bat` — Windows launcher
 - `out/` — compiled class output (ignored by git)
 
-## Requirements
-
-- Java 17 or newer
-- `stdlib.jar` present in the project root
+> Note: `SnakeGame.jar` is not tracked in Git. If you download the repository ZIP from GitHub, the jar may not be present until you build it.
 
 ## Windows launcher
 
-Double-click `run.bat` to launch the game on Windows.
+Double-click `run.bat` to launch the game on Windows. 
 
 ## Run from source
 

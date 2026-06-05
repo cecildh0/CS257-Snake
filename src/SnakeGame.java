@@ -116,7 +116,7 @@ public class SnakeGame {
 
     /** Draws the state of the game. */
     public void draw() {
-        drawFrame("snakehead.png", 150);
+        drawFrame("snakehead.png", 100);
     }
 
     /** Draws the state of the game when you get a game over. */
