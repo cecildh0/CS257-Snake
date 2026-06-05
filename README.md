@@ -2,15 +2,6 @@
 
 Simple desktop Snake game written for CS257 final
 
-## Project contents
-
-- `src/` — Java source files
-- `stdlib.jar` — `StdDraw` library dependency
-- `SnakeGame.jar` — executable JAR built from the project
-- `run.bat` — Windows launcher
-- `out/` — compiled class output (ignored by git)
-
-> Note: `SnakeGame.jar` is not tracked in Git. If you download the repository ZIP from GitHub, the jar may not be present until you build it.
 
 ## Windows launcher
 
@@ -39,13 +30,6 @@ From the project root:
 ```powershell
 java -jar SnakeGame.jar
 ```
-
-Make sure these files sit next to `SnakeGame.jar`:
-- `stdlib.jar`
-- `logo.png`
-- `snakehead.png`
-- `snakeheadgameover.png`
-- `apple.png`
 
 ## Build the JAR
 
